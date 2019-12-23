@@ -29,9 +29,9 @@ Integers should be evaluated as the number they represent:
 Add
 The add function should:
 
-    accept exactly 2 sub-expressions
-    fully evaluate the 2 sub-expressions
-    return the result of adding the 2 sub-expressions together
+   1. accept any number of sub-expressions
+   2. fully evaluate the sub-expressions
+   3. return the result of adding the sub-expressions together
 
 (add 1 1)
 2
@@ -45,10 +45,10 @@ The add function should:
 Multiply
 The multiply function should:
 
-    accept exactly 2 sub-expressions
-    fully evaluate the 2 sub-expressions
-    return the result of multiplying the 2 sub-expressions together
-
+   1. accept any number of sub-expressions
+   2. fully evaluate the sub-expressions
+   3. return the result of multiplying the sub-expressions together
+   
 (multiply 1 1)
 1
 
